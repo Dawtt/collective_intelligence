@@ -1,0 +1,391 @@
+The title is:  AI Trends
+
+The Language is:  en
+
+The updated information is: Wed, 12 Sep 2018 14:23:26 +0000
+
+The link is:  https://aitrends.com
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-11AppleRearEnd-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-11AppleRearEnd-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-11AppleRearEnd-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />By Lance Eliot, the AI Trends Insider Rear-end collisions. They can be a doozy. Let me share with you an example that happened to me some years ago. I was stopped at a red light and idly looking around, awaiting a green light. My driver’s side window was rolled down and it was a nice [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-7Coopetition-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-7Coopetition-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-7Coopetition-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />By Lance Eliot, the AI Trends Insider Competitors usually fight tooth and nail for every inch of ground they can gain over the other. It’s a dog eat dog world and if you can gain an advantage over your competition, so the better you shall be. If you can even somehow drive your competition out [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/02/2-13HowAIwillChangeWork-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/02/2-13HowAIwillChangeWork-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/02/2-13HowAIwillChangeWork-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />As editor of AI Trends, I am researching the impact of AI on how companies are organized to do work. I am interested in new job descriptions around data science, big data, machine learning, digital knowledge, AI interaction, natural language processing and others not mentioned here but that you might be involved in. I would [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-7FacebookExecs-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-7FacebookExecs-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-7FacebookExecs-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />By Steven Levy, Wired When asked to head Facebook’s Applied Machine Learning group — to supercharge the world’s biggest social network with an AI makeover — Joaquin Quiñonero Candela hesitated. It was not that the Spanish-born scientist, a self-described “machine learning (ML) person,” hadn’t already witnessed how AI could help Facebook. Since joining the company in [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-7BiasinAI-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-7BiasinAI-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-7BiasinAI-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />Whether it&#8217;s a navigation app such as Waze, a music recommendation service such as Pandora or a digital assistant such as Siri, odds are you&#8217;ve used artificial intelligence in your everyday life. &#8220;Today 85 percent of Americans use AI every day,&#8221; says Tess Posner, CEO of AI4ALL. AI has also been touted as the new must-have [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-7AlibabaCloud-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-7AlibabaCloud-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-7AlibabaCloud-2-218x150.jpg 218w, https://aitrends.com/wp-content/uploads/2018/09/9-7AlibabaCloud-2-485x337.jpg 485w" sizes="(max-width: 100px) 100vw, 100px" />Alibaba Group Holding Ltd. is in talks with BT Group PLC about a cloud services partnership as the Chinese internet giant challenges Amazon.com Inc.’s dominance in Europe. An agreement between Alibaba and the IT consulting unit of Britain’s former phone monopoly could be similar to Alibaba’s existing arrangement with Vodafone Group Plc in Germany, according [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/08/8-21CustomerTargeting-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/08/8-21CustomerTargeting-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/08/8-21CustomerTargeting-2-218x150.jpg 218w, https://aitrends.com/wp-content/uploads/2018/08/8-21CustomerTargeting-2-485x337.jpg 485w" sizes="(max-width: 100px) 100vw, 100px" />This is the first of a four part series on machine learning and deep learning written for AI Trends by Piotr Migdal, Ph.D., deepsense.ai. Every time you watch a film Netflix has suggested or buy a “similar product” on Amazon, it is a personalized recommendation. Can you make such recommendations work for your business as [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-4ChooseAIVendor-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-4ChooseAIVendor-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-4ChooseAIVendor-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />The world of artificial intelligence is frightening. No, not the danger of an army of AI-powered robots taking over the world (though that is a bit concerning). The real fear is that the wrong vendor is chosen or the rollout handled poorly. After all, AI is complex, not fully mature, in some cases poorly understood, and [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-4AIinFinancialServices-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-4AIinFinancialServices-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-4AIinFinancialServices-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />There are about 7.5 billion people on the planet, give or take a few. But that number pales in comparison to the number of connected devices worldwide. According to Autonomous, a financial research firm, people are outnumbered three-to-one by their smart computing devices — an estimated 22 billion in total. And the number of smart devices will [&#8230;]
+
+**************summary*************
+<img width="100" height="70" src="https://aitrends.com/wp-content/uploads/2018/09/9-4Kaggle-2-100x70.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="float: left; margin-right: 5px;" srcset="https://aitrends.com/wp-content/uploads/2018/09/9-4Kaggle-2-100x70.jpg 100w, https://aitrends.com/wp-content/uploads/2018/09/9-4Kaggle-2-218x150.jpg 218w" sizes="(max-width: 100px) 100vw, 100px" />According to a McKinsey report, only 20% of companies consider themselves adopters of AI technology while 41% remain uncertain about the benefits that AI provides. Considering the cost of implementing AI and the organizational challenges that come with it, it’s no surprise that smart companies seek ways to test the solutions before implementing them and get [&#8230;]
+
+
+*************Words count************
+
+rear 2
+end 2
+collisions 2
+and 14
+ai 26
+self 3
+driving 2
+cars 2
+plus 1
+apple 1
+lexus 1
+incident 1
+by 5
+lance 2
+eliot 2
+the 27
+trends 4
+insider 2
+they 2
+can 5
+be 4
+a 23
+doozy 1
+let 1
+me 2
+share 1
+with 7
+you 8
+an 6
+example 1
+that 9
+happened 1
+to 13
+some 2
+years 1
+ago 1
+i 4
+was 4
+stopped 1
+at 1
+red 1
+light 2
+idly 1
+looking 1
+around 2
+awaiting 1
+green 1
+my 1
+driver 1
+s 10
+side 1
+window 1
+rolled 1
+down 1
+it 8
+nice 1
+coopetition 1
+competitors 1
+usually 1
+fight 1
+tooth 1
+nail 1
+for 4
+every 3
+inch 1
+of 15
+ground 1
+gain 2
+over 3
+other 1
+dog 2
+eat 1
+world 4
+if 2
+advantage 1
+your 4
+competition 3
+so 1
+better 1
+shall 1
+even 1
+somehow 1
+drive 1
+out 1
+org 1
+chart 1
+as 8
+business 3
+deploys 1
+work 3
+architecture 1
+need 1
+redesign 1
+editor 1
+am 2
+researching 1
+impact 1
+on 5
+how 2
+companies 3
+are 4
+organized 1
+do 1
+interested 1
+in 14
+new 2
+job 1
+descriptions 1
+data 2
+science 1
+big 1
+machine 5
+learning 5
+digital 2
+knowledge 1
+interaction 1
+natural 1
+language 1
+processing 1
+others 1
+not 4
+mentioned 1
+here 1
+but 2
+might 1
+involved 1
+would 1
+look 1
+inside 1
+facebook 3
+steven 1
+levy 1
+wired 1
+when 1
+asked 1
+head 1
+applied 1
+group 4
+supercharge 1
+biggest 1
+social 1
+network 1
+makeover 1
+joaquin 1
+qui 1
+onero 1
+candela 1
+hesitated 1
+spanish 1
+born 1
+scientist 1
+described 1
+ml 1
+person 1
+hadn 1
+t 1
+already 1
+witnessed 1
+could 2
+help 1
+since 1
+joining 1
+company 1
+entrepreneurs 1
+taking 2
+bias 1
+artificial 3
+intelligence 3
+whether 1
+navigation 1
+app 1
+such 4
+waze 1
+music 1
+recommendation 3
+service 2
+pandora 1
+or 4
+assistant 1
+siri 1
+odds 1
+ve 1
+used 1
+everyday 1
+life 1
+today 1
+percent 1
+americans 1
+use 1
+day 1
+says 1
+tess 1
+posner 1
+ceo 1
+all 2
+has 3
+also 1
+been 1
+touted 1
+must 1
+have 1
+alibaba 4
+challenge 1
+amazon 3
+cloud 2
+push 1
+europe 2
+holding 1
+ltd 1
+is 8
+talks 1
+bt 1
+plc 2
+about 3
+services 1
+partnership 1
+chinese 1
+internet 1
+giant 1
+challenges 2
+com 1
+inc 1
+dominance 1
+agreement 1
+between 1
+consulting 1
+unit 1
+britain 1
+former 1
+phone 1
+monopoly 1
+similar 2
+existing 1
+arrangement 1
+vodafone 1
+germany 1
+according 3
+customer 2
+targeting 1
+levels 1
+from 1
+segmentation 1
+systems 1
+this 1
+first 1
+four 2
+part 1
+series 1
+deep 1
+written 1
+piotr 1
+migdal 1
+ph 1
+d 1
+deepsense 1
+time 1
+watch 1
+film 1
+netflix 1
+suggested 1
+buy 1
+product 1
+personalized 1
+make 1
+recommendations 1
+key 1
+considerations 1
+vendor 2
+selection 1
+deployment 1
+frightening 1
+no 2
+danger 1
+army 1
+powered 1
+robots 1
+though 1
+bit 1
+concerning 1
+real 1
+fear 1
+wrong 1
+chosen 1
+rollout 1
+handled 1
+poorly 2
+after 1
+complex 1
+fully 1
+mature 1
+cases 1
+understood 1
+banking 1
+industry 1
+trillion 1
+opportunity 1
+there 1
+billion 2
+people 2
+planet 1
+give 1
+take 1
+few 1
+number 3
+pales 1
+comparison 1
+connected 1
+devices 3
+worldwide 1
+autonomous 1
+financial 1
+research 1
+firm 1
+outnumbered 1
+three 1
+one 1
+their 1
+smart 3
+computing 1
+estimated 1
+total 1
+will 1
+suggestions 1
+using 1
+kaggle 1
+test 2
+mckinsey 1
+report 1
+only 1
+consider 1
+themselves 1
+adopters 1
+technology 1
+while 1
+remain 1
+uncertain 1
+benefits 1
+provides 1
+considering 1
+cost 1
+implementing 2
+organizational 1
+come 1
+surprise 1
+seek 1
+ways 1
+solutions 1
+before 1
+them 1
+get 1
